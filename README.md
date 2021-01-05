@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **zzhang18/zzhang18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## My personal blog
+[My EdutainmentShip](https://zzhang18.github.io/ME/)
+
+
+## My stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zzhang18&show_icons=true" alt="my github stats" width="420"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzhang18&layout=compact" alt="my top languages" height="165">
+</p>
