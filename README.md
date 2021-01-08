@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## My personal blog
-[My EdutainmentShip](https://zzhang18.github.io/my-edutainmentship/)
+[My EdutainmentShip](http://zm18.tk//)
 
 
 ## My stats
